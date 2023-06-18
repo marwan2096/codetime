@@ -30,7 +30,7 @@ phone
  Store companies’ logos in storage/app/public folder and make 
 them accessible from public
  Use Laravel's pagination for showing Companies/Employees list, 
-10 entries per page
+10 entries per page <br>
 profile controller
 
 
